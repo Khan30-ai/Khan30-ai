@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey, I'm Arshi 👋<br><br>⚡ Electrical Engineering Student<br><br>💻 Building full-stack web applications with modern technologies<br><br>🚀 Currently developing GearBazar and exploring scalable systems<br><br>☁️ Learning Cloud, DevOps, and Software Engineering<br><br>🎯 Aspiring SDE and Startup Founder
+Hey, I'm Arshi 👋<br><br> An Engineering Student<br><br>💻 Building full-stack web applications with modern technologies<br><br>🚀 Currently developing GearBazar and exploring scalable systems<br><br>☁️ Learning Cloud, DevOps, and Software Engineering<br><br>🎯 Aspiring SDE 
 
 
 ## 🌐 Socials:
